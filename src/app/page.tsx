@@ -16,8 +16,10 @@ export default function Home() {
         />
         <h1 className="text-4xl font-bold text-center sm:text-left">
           テスト
+          テスト
         </h1>
           <Link href="/about">
+          おお
           <Button>
             説明画面へ
           </Button>
