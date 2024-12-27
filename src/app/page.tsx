@@ -20,6 +20,7 @@ export default function Home() {
         </h1>
           <Link href="/about">
           おお
+          おお
           <Button>
             説明画面へ
           </Button>
